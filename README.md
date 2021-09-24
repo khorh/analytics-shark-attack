@@ -18,7 +18,8 @@ During the planning stage, the draft version of the charts were initially create
 - HTML/HTML5
 - CSS/SCSS
 - Javascript
-- chart.js
+- CDN chart.js
+- IDE PHP Storm
 
 #### 3.2 HTML/HTML5
 - Uses HTML5 standards i.e. header, main, section, article and footer.
