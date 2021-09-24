@@ -1,5 +1,7 @@
 # SHARK ATTACK
 
+![shark attack](./assets/images/analytics-shark-attack.png)
+
 ### Overview
 A Javascript dashboard to show global insights on shark cases.
 
